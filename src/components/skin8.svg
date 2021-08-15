@@ -1,0 +1,119 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" viewBox="0 0 816 1055" style="margin:0 auto;">
+	<defs>
+		<style>
+			.disc{fill:#4a4a4a;}
+		</style>
+	</defs>
+
+	<rect x="24" y="24" width="768" height="148" style="fill:rgb(57, 195, 177);" />
+	<rect x="498" y="172" width="294" height="860" style="fill:#f5f5f5;" />
+
+	<text x="293" y="148" textLength="226" font-family="Times New Roman" font-style="italic" font-size="36" font-weight="700" fill="#fff">Jessica Claire</text>
+	<text x="394" y="86" textLength="26" font-family="'Palatino Linotype', Palatino, serif" font-size="26" font-weight="400" fill="#fff">JC</text>
+	<g class="disc">
+		<circle cx="41" cy="500" r="3"/>		
+		<circle cx="41" cy="560" r="3"/>
+		<circle cx="41" cy="600" r="3"/>
+		<circle cx="41" cy="640" r="3"/>
+		<circle cx="41" cy="680" r="3"/>
+		<circle cx="41" cy="720" r="3"/>
+
+		<circle cx="41" cy="850" r="3"/>
+		<circle cx="41" cy="890" r="3"/>
+		<circle cx="41" cy="930" r="3"/>
+
+		<circle cx="523" cy="380" r="3"/>
+		<circle cx="523" cy="400" r="3"/>
+		<circle cx="523" cy="420" r="3"/>
+		<circle cx="523" cy="440" r="3"/>
+		<circle cx="523" cy="460" r="3"/>
+		<circle cx="523" cy="480" r="3"/>
+		<circle cx="523" cy="500" r="3"/>
+		<circle cx="523" cy="520" r="3"/>
+	</g>
+	<g>
+		<line x1="37" y1="360" x2="479" y2="360" style="stroke:#c4c4c4;stroke-width:1" />
+		<line x1="518" y1="305" x2="773" y2="305" style="stroke:#c4c4c4;stroke-width:1" />
+		<line x1="518" y1="555" x2="773" y2="555" style="stroke:#c4c4c4;stroke-width:1" />
+
+		<line x1="380" y1="51" x2="435" y2="51" style="stroke:#fff;stroke-width:1" />
+		<line x1="380" y1="104" x2="435" y2="104" style="stroke:#fff;stroke-width:1" />
+		<line x1="381" y1="51" x2="381" y2="104" style="stroke:#fff;stroke-width:1" />
+		<line x1="434" y1="51" x2="434" y2="104" style="stroke:#fff;stroke-width:1" />
+	</g>
+	<g font-family="Times New Roman" font-style="italic" font-size="16" font-weight="700" fill="#4a4a4a">
+		<text x="36" y="215" textLength="164">Professional Summary</text>
+		<text x="36" y="406" textLength="96">Work History</text>
+		<text x="518" y="350" textLength="40">Skills</text>
+		<text x="518" y="600" textLength="74">Education</text>
+	</g>
+	<g font-family="'Palatino Linotype', Palatino, serif" font-size="14" font-weight="400" fill="#4a4a4a">
+		<text x="36" y="250" textLength="442">Successful sales professional with 10+ years experience in large-scale food</text>
+		<text x="36" y="270" textLength="407">and retail environments. Implement cost control measures to ensure</text>
+		<text x="36" y="290" textLength="394">operations remain within company targets. Maximize bottom-line</text>
+		<text x="36" y="310" textLength="396"> performance through P&amp;L, merchandising, staff management, loss</text>
+		<text x="36" y="330" textLength="276">control and inventory management initiatives.</text>
+
+		<text x="54" y="504" textLength="364">Directed recruitment/training/staff development initiatives to</text>
+		<text x="54" y="524" textLength="420">maximize productivity and revenue potential through development of</text>
+		<text x="54" y="544" textLength="75">a sales team.</text>
+		<text x="54" y="564" textLength="418">Successfully increased employee retention by creating a positive work</text>
+		<text x="54" y="584" textLength="150">environment in 18 stores.</text>
+		<text x="54" y="604" textLength="418">Administered daily operations to ensure policies were adhered to and</text>
+		<text x="54" y="624" textLength="151">understood by sales staff.</text>
+		<text x="54" y="644" textLength="386">Cultivated strong business relationships with customers to drive</text>
+		<text x="54" y="664" textLength="140">business developments.</text>
+		<text x="54" y="684" textLength="414">Planned and executed floor merchandising initiatives in collaboration</text>
+		<text x="54" y="704" textLength="192">with merchandise management.</text>
+		<text x="54" y="724" textLength="310">Ensure store is prepared for internal audits through</text>
+		<text x="54" y="744" textLength="390">analysis/preparation of quality assurance and Inventory statistics.</text>
+
+		<text x="54" y="855" textLength="410">Oversaw opening/closing operations for a $4 million annual revenue</text>
+		<text x="54" y="875" textLength="381">store in compliance with currenct company policies/procedures.</text>
+		<text x="54" y="895" textLength="396">Managed operational costs by spearheading inventory control and</text>
+		<text x="54" y="915" textLength="410">leading shipping department activies as well as setting wage targets.</text>
+		<text x="54" y="935" textLength="419">Administered financial processes including accounts payable/accounts</text>
+		<text x="54" y="955" textLength="419">receivable, managing accounting office and updating customer service</text>
+		<text x="54" y="975" textLength="27">files.</text>
+
+		<text x="535" y="385" textLength="157">Executive team leadership</text>
+		<text x="535" y="405" textLength="167">Inventory report generation</text>
+		<text x="535" y="425" textLength="138">Client/Vendor relations</text>
+		<text x="535" y="445" textLength="97">Market Analysis</text>
+		<text x="535" y="465" textLength="136">Budgeting and finance</text>
+		<text x="535" y="485" textLength="122">Project management</text>
+		<text x="535" y="505" textLength="75">Team liaison</text>
+		<text x="535" y="525" textLength="177">Strong verbal communication</text>
+
+		<text x="36" y="461" textLength="109">San Francisco, CA</text>
+		<text x="36" y="481" font-style="italic" textLength="101">09/2009 - Current</text>
+		<text x="36" y="811" textLength="109">San Francisco, CA</text>
+		<text x="36" y="831" font-style="italic" textLength="101">08/1997 - 09/2009</text>
+
+		<text x="517" y="635">2009</text>
+		<text x="517" y="675" textLength="109">San Francisco, CA</text>
+		<text x="517" y="715" textLength="220">Operations Management Speech and</text>
+		<text x="517" y="735" textLength="188">Communication, Sociology and</text>
+		<text x="517" y="755" textLength="70">Psychology</text>
+		<text x="517" y="775" textLength="238">Un-Operations Management Listen and</text>
+		<text x="517" y="795" textLength="35">Vocal</text>
+		<text x="517" y="841">2006</text>
+
+		<text x="517" y="214" textLength="97">dsample@live.in</text>
+		<text x="536" y="234" textLength="76">508-278-2542</text>
+		<text x="535" y="254" textLength="76">781-669-5989</text>
+		<text x="517" y="274" textLength="247">123 Main Street, San Francisco, CA 94122</text>
+	</g>
+
+	<g font-family="'Palatino Linotype', Palatino, serif" font-size="14" font-weight="700" fill="#4a4a4a">
+		<text x="36" y="441" textLength="221">Verizon Wireless - District Manager</text>
+		<text x="36" y="791" textLength="228">Walgreens, Inc - Operations manager</text>
+		<text x="517" y="234">H:</text>
+		<text x="517" y="254">C:</text>
+		<text x="517" y="655" textLength="153">San Francisco University</text>
+		<text x="517" y="695" textLength="220">Master of Business Administration:</text>
+		<text x="517" y="862" textLength="206">Certified Retail District Manager,</text>
+		<text x="517" y="882" textLength="75">Verizon Inc.</text>
+	</g>
+</svg>

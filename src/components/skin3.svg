@@ -1,0 +1,112 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" viewBox="0 0 816 1055" font-family="Arial, Helvetica, sans-serif" font-weight="400" style="margin:0 auto;">
+	<defs>
+		<style>
+			.disc{fill:black;}
+		</style>
+	</defs>
+
+	<circle cx="173" cy="86" r="35" stroke="#0c8de2" stroke-width="1" fill="#fff" />
+	<text x="152" y="97" textLength="42" font-size="36" fill="#231f20">JC</text>
+	<g class="disc">
+		<circle cx="262" cy="447" r="3"/>
+		<circle cx="262" cy="490" r="3"/>
+		<circle cx="262" cy="531" r="3"/>
+		<circle cx="262" cy="574" r="3"/>
+		<circle cx="262" cy="617" r="3"/>
+		<circle cx="262" cy="660" r="3"/>
+
+		<circle cx="262" cy="758" r="3"/>
+		<circle cx="262" cy="803" r="3"/>
+		<circle cx="262" cy="844" r="3"/>
+
+		<circle cx="262" cy="279" r="3"/>
+		<circle cx="262" cy="300" r="3"/>
+		<circle cx="262" cy="365" r="3"/>
+		<circle cx="524" cy="279" r="3"/>
+		<circle cx="524" cy="322" r="3"/>
+		<circle cx="524" cy="343" r="3"/>
+	</g>
+	<g stroke="#434d54" stroke-width="1" fill="#fff">
+		<circle cx="230" cy="194" r="7" />
+		<circle cx="230" cy="280" r="7" />
+		<circle cx="230" cy="405" r="7" />
+		<circle cx="230" cy="717" r="7" />
+		<circle cx="230" cy="929" r="7" />
+	</g>
+	<g>
+		<line x1="230" y1="201" x2="230" y2="273" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="287" x2="230" y2="398" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="412" x2="230" y2="710" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="724" x2="230" y2="922" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="936" x2="230" y2="1010" style="stroke:#434d54;stroke-width:1" />
+	</g>
+	 <g  font-size="44" fill="#0c8de2">
+		<text x="230" y="88" textLength="282">Jessica Claire</text>
+	</g>
+	<g font-size="16" font-weight="700" fill="#0c8de2">
+		<text x="93" y="200" textLength="116">PROFESSIONAL</text>
+		<text x="131" y="221" textLength="78">SUMMARY</text>
+		<text x="155" y="283" textLength="54">SKILLS</text>
+		<text x="95" y="410" textLength="116">WORK HISTORY</text>
+		<text x="120" y="934" textLength="89">EDUCATION</text>
+	</g>
+	<g font-size="16" fill="#231f20">
+		<text x="230" y="118" textLength="372">H: 508-278-2542 | C: 781-669-5989 | E: dsample@live.in</text>
+		<text x="230" y="139" textLength="280">123 Main Street, San Francisco, CA 94122</text>
+
+		<text x="250" y="200" textLength="495">Accomplished Operations executive with a successful track record overseeing</text>
+		<text x="250" y="221" textLength="477">regional Marketing ,IT,HR/training and property in company and franchise</text>
+		<text x="250" y="242" textLength="275">operations for a large chain of restaurants.</text>
+
+		<text x="283" y="283" textLength="172">Executive team leadership</text>
+		<text x="283" y="305" textLength="154">Multi-million pound P&amp;L</text>
+		<text x="283" y="325" textLength="214">management expertise for South </text>
+		<text x="283" y="347" textLength="76">East region</text>
+		<text x="283" y="370" textLength="148">Client/Vender relations</text>
+		<text x="544" y="283" textLength="147">Marketing/Product line</text>
+		<text x="544" y="305" textLength="85">development</text>
+		<text x="544" y="325" textLength="216">Staff/training policy development</text>
+		<text x="544" y="347" textLength="141">Process Improvement</text>
+
+		<text x="283" y="453" textLength="453">Directed recruitment/training/staff development initiatives to maximize</text>
+		<text x="283" y="473" textLength="470">productivity and revenue potential through development of a sales team.</text>
+		<text x="283" y="495" textLength="458">Successfully increased employee retention by creating a positive work</text>
+		<text x="283" y="515" textLength="170">environment in 18 stores.</text>
+		<text x="283" y="537" textLength="450">Administered daily operations to ensure policies were adhered to and</text>
+		<text x="283" y="558" textLength="167">understood by sales staff.</text>
+		<text x="283" y="580" textLength="475">Cultivated strong business relationships with customers to drive business</text>
+		<text x="283" y="600" textLength="97">developments.</text>
+		<text x="283" y="622" textLength="479">Planned and executed floor merchandising initiatives in collaboration with</text>
+		<text x="283" y="643" textLength="182">merchandise management.</text>
+		<text x="283" y="665" textLength="485">Ensure store is prepared for internal audits through analysis/preparation of</text>
+		<text x="283" y="685" textLength="272">quality assurance and Inventory statistics.</text>
+
+		<text x="283" y="764" textLength="478">Oversaw opening/closing operations for a $4 million annual revenue store</text>
+		<text x="283" y="785" textLength="375">in compliance with current company policies/procedures.</text>
+		<text x="283" y="807" textLength="481">Managed operatonal costs by spearheading inventory control and leading</text>
+		<text x="283" y="829" textLength="394">shipping department activies as well as setting wage targets.</text>
+		<text x="283" y="849" textLength="462">Administered financial processes including accounts payable/accounts</text>
+		<text x="283" y="870" textLength="460">receivable, managing accounting office and updating customer service</text>
+		<text x="283" y="891" textLength="29">files</text>
+
+		<text x="496" y="934" textLength="223">| Operations Management Speech</text>
+		<text x="249" y="955" textLength="314">and Communication, Sociology and Psychology,</text>
+		<text x="249" y="998" textLength="450">Operations Management Speech and Communication, Sociology and</text> 
+	</g>
+	<g font-size="16" fill="#231f20" font-weight="700">
+		<text x="249" y="432" textLength="260">Verizon Wireless | San Francisco, CA</text>
+		<text x="249" y="744" textLength="245">Walgreens, Inc | San Francisco, CA</text>
+		<text x="249" y="934" textLength="244">Master of Business Administration</text>
+		<text x="249" y="976" textLength="314">San Francisco University - San Francisco, CA</text>
+	</g>
+	<g font-size="16" font-weight="700" fill="#0c8de2">
+		<text x="249" y="410" textLength="150">DISTRICT MANAGER</text>
+		<text x="249" y="722" textLength="174">OPERATIONS MANAGER</text>
+	</g>
+	<g font-style="italic" font-size="16" font-weight="400" fill="#231f20">
+		<text x="626" y="410" textLength="147">09/2009 to CURRENT</text>
+		<text x="648" y="722" textLength="128">08/1997 to 09/2009</text>
+		<text x="742" y="934" textLength="33">2009</text>
+	</g>	
+</svg>

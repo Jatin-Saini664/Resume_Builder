@@ -1,0 +1,32 @@
+.heading{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.headings{
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.headings a{
+    text-decoration: none;
+    color: black;
+}
+
+.heading .logo{
+    height: 100%;
+    width: 30%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.heading .logo svg{
+    height: 80%;
+    width: auto;
+}

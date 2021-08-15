@@ -1,0 +1,63 @@
+.login-page{
+    height: 90vh;
+    width: 98.5vw;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.login-page .section-1{
+    width: 60%;
+    height: 100%;
+}
+
+.login-page .section-2{
+    height: 100%;
+    width: 40%;
+}
+
+.login-page .section-2 .login-signup-heading{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* position: relative; */
+}
+
+.login-page .section-2 .login-signup-heading::after{
+    content: '';
+    height: 2px;
+    width: 18vw;
+    position: absolute;
+    top: 102px;
+    right: 330px;
+    background: black;
+}
+
+.animation-class-1{
+    animation:animate 2s ease-in-out;
+}
+
+@keyframes animate{
+    0%{
+        right: 305px;
+    }
+    100%{
+        right: 200px;
+    }
+}
+
+.animation-class-2{
+    animation:  animate1 2s ease-in-out;
+}
+
+@keyframes animate1{
+    0%{
+        right: 200px;
+    }
+    100%{
+        right: 330px;
+    }
+}

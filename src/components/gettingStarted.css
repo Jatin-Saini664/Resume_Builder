@@ -1,0 +1,38 @@
+.resume-templates{
+    height: 90vh;
+    width: 98.5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 5vh;
+}
+
+.resume-templates .styleTemplate{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    word-wrap: break-word;
+    flex-wrap: wrap;
+    grid-gap: 30px;
+}
+
+.resume-templates .styleTemplate .template-card{
+    height: 30vh;
+    width: 18vw;
+    position: relative;
+    margin-top: 60px;
+}
+
+.resume-templates .styleTemplate .template-card button{
+    position: relative;
+    top: -16vh;
+    left: 28%;
+    height: 5vh;
+}
+
+.resume-templates .styleTemplate img{
+    height: 100%;
+    width: 100%;
+}
